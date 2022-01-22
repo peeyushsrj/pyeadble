@@ -23,4 +23,6 @@ where
 - `code-complexity.py` is the source written.
 - `12` is optional , which is number of features. If passed, it shows outputs code density.
 
-### dm for hosted version (gui based)
+### DM for hosted version (gui based)
+
+### P.R. and issues are welcome 
