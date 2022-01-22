@@ -6,9 +6,9 @@ A simple tool, to give rought idea for complexity of your python programs.
 Nth - 1 rule of coding is to write a beautiful and clear python code. One way for this is to minimize no. of lines used in program.
 Base on this hypothis, this tool - 
 
-- [ ] Exclude empty lines (`\n`)
-- [ ] Exclude lines for package `imports`
-- [ ] Exclude lines used for `function definitions`
+- [x] Exclude empty lines (`\n`)
+- [x] Exclude lines for package `imports`
+- [x] Exclude lines used for `function definitions`
 
 And thus outputs only logic lines. If you pass number of features, it gives you code density. 
 
